@@ -10,7 +10,7 @@ Existem 2 modos de rodar o programa no seu computador, um passando o número com
 
 **Passando na linha de comando:**
 ```
-dart .\bin\desafio_um.dart
+dart .\bin\desafio_um.dart 90
 ```
 se você já estiver dentro da pasta bin, passe apenas o nome do arquivo **desafio_um.dart**
 
